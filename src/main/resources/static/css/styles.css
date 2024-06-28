@@ -1,0 +1,168 @@
+/* Navbar styles */
+.navbar-brand img {
+    height: 50px; /* Adjust this value as needed */
+    width: auto; /* Keeps the aspect ratio */
+}
+
+.nav-link {
+    margin-right: 30px; /* Adjust this value as needed for more or less space */
+    font-weight: bold; /* Make the links bold */
+}
+
+.nav-link:hover {
+    color: #ffcc00; /* Change this to the desired hover color */
+}
+
+.navbar-nav .nav-link {
+    text-transform: capitalize;
+}
+
+/* Carousel item styles */
+.carousel-item img {
+    max-height: 830px; /* Set maximum height for the carousel images */
+    width: auto; /* Maintain aspect ratio */
+    margin: auto; /* Center align the images horizontally */
+}
+
+/* Search bar styles */
+.search-bar {
+    width: 300px; /* Adjust the width of the search bar */
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+.search-bar:hover {
+    box-shadow: 0 0 7px gold, 0 0 6px goldenrod, 0 0 6px orange;
+}
+
+/* Cart icon styles */
+.cart-icon {
+    position: relative;
+    font-size: 20px; /* Adjust cart icon size */
+    transition: filter 0.3s ease-in-out;
+}
+
+.cart-icon:hover {
+    filter: brightness(100%) drop-shadow(0 0 7px gold) drop-shadow(0 0 6px goldenrod) drop-shadow(0 0 6px orange);
+}
+
+.cart-count {
+    position: absolute;
+    top: 2px; /* Adjust vertical position above the cart icon */
+    right: -8px; /* Adjust horizontal position */
+    background-color: brown; /* Background color for the count */
+    color: white; /* Text color */
+    border-radius: 50%; /* Rounded shape */
+    padding: 8px 4px; /* Padding around the number */
+    font-size: 14px; /* Font size */
+    font-weight: bold; /* Make the number bold */
+}
+
+/* Payment method styles */
+.payment-method {
+    margin-bottom: 20px;
+}
+
+.payment-logo {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Order summary styles */
+.order-summary {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-top: 20px;
+}
+
+/* Confirmation container styles */
+.confirmation-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.confirmation-message {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.continue-button {
+    margin-top: 20px;
+}
+
+/* Body and wrapper styles */
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.wrapper {
+    flex: 1;
+}
+
+.content {
+    flex: 1;
+}
+
+/* Footer styles */
+footer {
+    margin-top: auto;
+    padding: 1rem 0;
+    background-color: #343a40; /* Dark background color */
+    color: white; /* White text color */
+}
+
+footer .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+footer .row {
+    width: 100%;
+}
+
+footer .col-md-4 {
+    text-align: center;
+    margin-bottom: 20px; /* Add some space between the columns */
+}
+
+footer .col-md-4 h5 {
+    margin-bottom: 10px;
+}
+
+footer .col-md-4 p, footer .col-md-4 a {
+    margin-bottom: 5px;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: #ffcc00; /* Change this to the desired hover color */
+}
+
+footer .fab {
+    margin: 0 10px;
+}
+
+.container-flex {
+    flex: 1;
+}

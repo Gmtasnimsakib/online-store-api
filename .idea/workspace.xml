@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f3e3b102-4821-48ab-8c67-8f97cd99abf1" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2i9JnBbx3c2lL2Jhb4iHlq43qXz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.OnlineStoreApiApplication.executor&quot;: &quot;Run&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Java/e-commerce project/New folder/online-store-api/online-store-api/src/main/resources/static/images&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Java\e-commerce project\New folder\online-store-api\online-store-api\src\main\resources\static\images" />
+      <recent name="E:\Java\e-commerce project\New folder\online-store-api\online-store-api\src\main\resources\templates" />
+      <recent name="E:\Java\e-commerce project\New folder\online-store-api\online-store-api\src\main\resources\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Java\e-commerce project\New folder\online-store-api\online-store-api\src\main\resources\static\images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="OnlineStoreApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="online-store-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="online_store_api.OnlineStoreApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3e3b102-4821-48ab-8c67-8f97cd99abf1" name="Changes" comment="" />
+      <created>1718897025048</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718897025048</updated>
+      <workItem from="1718897027786" duration="7614000" />
+      <workItem from="1718906428048" duration="114000" />
+      <workItem from="1718909122112" duration="1927000" />
+      <workItem from="1718913833340" duration="369000" />
+      <workItem from="1718916382475" duration="1192000" />
+      <workItem from="1718945361909" duration="3792000" />
+      <workItem from="1718949515758" duration="8000" />
+      <workItem from="1718982753609" duration="11239000" />
+      <workItem from="1719026706870" duration="4974000" />
+      <workItem from="1719041091654" duration="9813000" />
+      <workItem from="1719064857585" duration="512000" />
+      <workItem from="1719072172097" duration="17000" />
+      <workItem from="1719082337559" duration="1766000" />
+      <workItem from="1719116081598" duration="3370000" />
+      <workItem from="1719127488851" duration="1605000" />
+      <workItem from="1719132393294" duration="19044000" />
+      <workItem from="1719164431199" duration="1431000" />
+      <workItem from="1719167559761" duration="3095000" />
+      <workItem from="1719202560246" duration="18479000" />
+      <workItem from="1719231753385" duration="1025000" />
+      <workItem from="1719241143149" duration="8282000" />
+      <workItem from="1719253124978" duration="47000" />
+      <workItem from="1719253251548" duration="3280000" />
+      <workItem from="1719282755243" duration="2643000" />
+      <workItem from="1719286112386" duration="318000" />
+      <workItem from="1719287433348" duration="9422000" />
+      <workItem from="1719306936578" duration="18524000" />
+      <workItem from="1719343592756" duration="994000" />
+      <workItem from="1719378556720" duration="23685000" />
+      <workItem from="1719455691825" duration="10137000" />
+      <workItem from="1719488108490" duration="15411000" />
+      <workItem from="1719540722003" duration="6601000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
