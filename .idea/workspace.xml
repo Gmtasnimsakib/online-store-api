@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3e3b102-4821-48ab-8c67-8f97cd99abf1" name="Changes" comment="Making E-commerce.">
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="f3e3b102-4821-48ab-8c67-8f97cd99abf1" name="Changes" comment="Making E-commerce." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -145,7 +143,7 @@
       <workItem from="1719455691825" duration="10137000" />
       <workItem from="1719488108490" duration="15411000" />
       <workItem from="1719540722003" duration="6601000" />
-      <workItem from="1719548016980" duration="1039000" />
+      <workItem from="1719548016980" duration="1445000" />
     </task>
     <task id="LOCAL-00001" summary="Making E-commerce.">
       <option name="closed" value="true" />
@@ -163,7 +161,23 @@
       <option name="project" value="LOCAL" />
       <updated>1719548770131</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Making E-commerce.">
+      <option name="closed" value="true" />
+      <created>1719549211584</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719549211584</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Making E-commerce.">
+      <option name="closed" value="true" />
+      <created>1719549426042</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719549426042</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
